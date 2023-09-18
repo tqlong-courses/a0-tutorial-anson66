@@ -38,11 +38,10 @@ def buyLotsOfFruit(orderList):
     "*** YOUR CODE HERE ***"
 
     for fruit, pounds in orderList:
-        if not fruitPrices.has_key(fruit):
+        if not fruit in fruitPrices:
             print('ERROR: invalid fruit.')
             return None		# null in c++
         totalCost += fruitPrices[fruit] * pounds
-
     return totalCost
 
 
