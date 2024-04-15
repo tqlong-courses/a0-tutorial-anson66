@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T13:57:51.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rKsZus18u3qNsYy6NX4B" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T14:26:22.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-JoEwpifV-S9-CBAuZmN" version="24.2.2" type="github">
   <diagram name="Trang-1" id="EUTHaJk-HCngdbKTFqFq">
-    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I_49McV5r1lFN_69YFqi-48" value="0..1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_49McV5r1lFN_69YFqi-45">
+        <mxCell id="I_49McV5r1lFN_69YFqi-48" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_49McV5r1lFN_69YFqi-45">
           <mxGeometry x="-0.0396" y="3" relative="1" as="geometry">
             <mxPoint x="53" y="-7" as="offset" />
           </mxGeometry>
